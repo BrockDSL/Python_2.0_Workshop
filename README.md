@@ -25,5 +25,5 @@ We'll do all of the work for today's tutorial using Juypter Notebooks.
 
 ## Exercises
 
-1. The Basics of Python
-1. Text Analysis with Scrabble
+1. Importing Libraries
+1. Data analysis using Pandas and Matplotlib
