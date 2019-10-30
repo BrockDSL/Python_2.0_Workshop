@@ -3,6 +3,8 @@
 
 # Advanced Python 
 
+Material for Workshop http://bit.ly/DSLPython2
+
 ## Pandas
 
 *Pandas is a python tool to analyze data. We load a CSV file into a dataframe*
