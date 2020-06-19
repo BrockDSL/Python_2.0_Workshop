@@ -3,26 +3,37 @@
 
 # Advanced Python 
 
-Material for Workshop http://bit.ly/DSLPython2
+Material for Workshop [http://bit.ly/DSLPython2](http://bit.ly/DSLPython2)
 
-## Pandas
+## Importing Libraries
 
-*Pandas is a python tool to analyze data. We load a CSV file into a dataframe*
+- We like to reuse code as much as possible so we import libraries of functions that are already written
+- EG. to Import the statistitcs library: `import statistics`
 
+## Library example: Numpy
 
-***
+- A Python Library that lets you do intensive computation calculations.
 
+Eg. to import Numpy with a shorter name so we don't need to type it out all the time
+```
+import numpy as np
+```
 
-To use
+## Library example: Pandas
 
+- A Python Library that lets you manipulate data in an object called a *dataframe*
 
-`import pandas as pd`
-`data = pd.read_csv("file.csv")`
+Eg. to import the library and open a csv file:
 
+```
+import pandas as pd
+data = pd.read_csv("file.csv")
+```
 
 Some useful things to do
 
 - `data.head()` display the first lines of the dataframe
+- `data.describe()` a quantitative summary of the data frame
 - `data.count()` how many items are in the dataframe
 - `data.nunique()` how many unique items are in a dataframe
 - `data.unique()` the actual unique values seen in a dataframe 
@@ -32,18 +43,19 @@ Some useful things to do
 - `data.mean()` arithmetic mean of dataframe values
 - `data.max()` highest value seen in a dataframe
 - `data.min()` lowest value seen in a dataframe
-- `data.tolist()` makes a Python list out of a portion of dataframe, useful for graphing
 - `data.loc["search"]` will locate all items in dataframe that match "search"
-- `data.index` shows you index details of the dataframe
-- `data.index.tolist()` converts the index into a list
 
-## Matplotlib
+## Library Example: Matplotlib
 
-*Is a tool to draw graphs*
+- A Python Library to draw graphs, works will with Pandas and Numpy
 
-To use
+Eg. to import Matplotlib into a Jupyter notebook with a shorter name
 
-`import matplotlib.pyplot as plt`
+```
+%matplotlib inline
+import matplotlib.pyplot as plt
+```
+
 
 Everything you put into a graph object needs to be a list
 Example Bargraph:
