@@ -3,7 +3,7 @@
 [@brock_dsl](https://twitter.com/brock_dsl)
 
 
-# Python 2.0
+# Python 2.0 
 
 We'll do all of the work for today's tutorial using Juypter Notebooks. 
 
