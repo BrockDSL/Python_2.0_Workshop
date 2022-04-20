@@ -1,9 +1,8 @@
-![DSL Logo](dsl_logo.png)
-
-[@brock_dsl](https://twitter.com/brock_dsl)
+![Workshop Splash](Data-Science-Python.jpg)
 
 
-# Python 2.0 
+
+# Python for Data Science
 
 We'll do all of the work for today's tutorial using Juypter Notebooks. 
 
