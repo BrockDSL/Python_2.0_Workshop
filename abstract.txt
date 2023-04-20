@@ -1,5 +1,5 @@
 Python is a versatile, easy to learn, programming language. In this 2-hour workshop we’ll look at how you can use Python to analyze a dataset to find trends, visualize results, and perform complex analysis. Students will examine the Pandas and MatplotLib Libraries using a test dataset of over 100,000 data points.
 
-The class will be held using the Google Colab environment, and participants will need a (free) Google Account to participate. Some basic knowledge of Python would help. To prepare please work through the self-directed <a href="https://brockdsl.github.io/Intro_to_Python_Workshop/">Introduction to Python</a> tutorial.
+The class will be held using the Google Colab environment, and participants will need a (free) Google Account to participate. Some basic knowledge of Python would help. To prepare please work through the self-directed Introduction to Python tutorial. https://brockdsl.github.io/Intro_to_Python_Workshop/
 
 This workshop will be recorded and a copy of the recording will be provided to attendees. The recording of this workshop may also be shared publicly
